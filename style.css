@@ -43,6 +43,10 @@ a:hover {
     color: aliceblue;
 }
 
+.container{
+    display: inline-block
+}
+
 footer{
     background-color: black;
     text-align: center;
